@@ -1,0 +1,32 @@
+.panel{
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    height: 15vw;
+    justify-content: space-evenly;
+    background-color:#cd9cb2 ;
+
+}
+.control{
+    border-radius: 5px;
+    text-align: center;
+    width: 11vw;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: stretch;
+    background-color: #ad7e94;
+    button{
+        max-width: 100%;
+        margin-bottom: 10px;
+        height: 3vw;
+        background-color: #8f6277;
+        border-radius: 5px;
+
+    }
+}
+

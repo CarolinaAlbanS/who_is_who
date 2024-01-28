@@ -1,0 +1,11 @@
+.personajes{
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    background-color:#cd9cb2 ;
+    img{
+        width: 8vw;
+    }
+}
